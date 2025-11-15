@@ -91,4 +91,19 @@ In addition to my full-time roles, I've contracted with two large organizations 
   -->
 </div>
 
+## 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=mister-gone-int&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mister-gone-int&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mister-gone-int&layout=compact)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mister-gone-int&theme=flat)
+
+## 🏷️ Badges
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=mister-gone-int&theme=flat)](https://github.com/mister-gone-int)
+
+
 <hr>
