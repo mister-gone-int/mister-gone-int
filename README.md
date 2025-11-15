@@ -43,6 +43,10 @@ In addition to my full-time roles, I've contracted with two large organizations 
   <br>
   <img width="48%" src="https://github-readme-stats-nu-two-84.vercel.app/api?username=mister-gone-int&theme=catppuccin_mocha&hide_border=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=3600" alt="Kevin's GitHub Stats" />
 </div>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mister-gone-int&theme=catppuccin" alt="Kevin's Trophies" />
+</div>
 
 <hr>
 
