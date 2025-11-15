@@ -40,11 +40,11 @@ In addition to my full-time roles, I've contracted with two large organizations 
   <img width="80%" src="https://streak-stats.demolab.com/?user=mister-gone-int&theme=transparent&hide_border=true&count_private=true&border_radius=10&locale=en&cache_seconds=3600" alt="Kevin's GitHub Streak" />
 
   <br><br>
-
+  <hr>
   <img width="65%" src="https://github-readme-stats-nu-two-84.vercel.app/api?username=mister-gone-int&theme=transparent&hide_border=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=3600" alt="Kevin's GitHub Stats" />
   <br>
   <img width="40%" src="https://github-readme-stats-nu-two-84.vercel.app/api/top-langs?username=mister-gone-int&theme=transparent&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Kevin's Most Used Languages" />
-
+  </hr>
   <br><br>
 
 
