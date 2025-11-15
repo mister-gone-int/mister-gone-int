@@ -33,7 +33,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
 
 <div align=center>
   <!--
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Kevin's GitHub Stats" />
   -->
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mister-gone-int&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Kevin's" />
   <!--
