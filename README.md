@@ -43,7 +43,9 @@ In addition to my full-time roles, I've contracted with two large organizations 
   <img width="48%" src="https://github-readme-stats-nu-two-84.vercel.app/api/top-langs?username=mister-gone-int&theme=transparent&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Kevin's Most Used Languages" />
 
 </div>
+
 <hr>
+
 ## 🧠 Skills
 
 <table align="center" width="100%">
@@ -85,7 +87,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
     </td>
     <td>
       <strong>Databases</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" style="margin: 5px;"/>
+      <img src="httpsS://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40" style="margin: 5px;"/>
@@ -96,11 +98,11 @@ In addition to my full-time roles, I've contracted with two large organizations 
       <strong>DevOps & Tools</strong><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="margin: 5px;"/>
+      <img src="httpsS://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40" style="margin: 5px;"/>
-      <img src="httpsa://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40" style="margin: 5px;"/>
     </td>
   </tr>
   
@@ -112,7 +114,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" style="margin: 5px;"/>
-      <img src="httpsD://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.simpleicons.org/obsidian/white" title="Obsidian" alt="Obsidian" width="40" height="40" style="margin: 5px;"/>
@@ -121,5 +123,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
     <td></td>
   </tr>
 </table>
+
 <hr>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mister-gone-int&label=Profile+Views)
