@@ -119,15 +119,15 @@ In addition to my full-time roles, I've contracted with two large organizations 
     </td>
     <td>
       <strong>OS & Editors</strong><br><br>
-      <img src="httpsS://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" style="margin: 5px;"/>
-      <img src="httpsS://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" title="GoLand" alt="GoLand" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" title="DataGrip" alt="DataGrip" width="40" height="40" style="margin: 5px;"/>
-      <img src="httpsReadMe.md" title="Dataspell" alt="Dataspell" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dataspell/dataspell-original.svg" title="Dataspell" alt="Dataspell" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.simpleicons.org/obsidian/white" title="Obsidian" alt="Obsidian" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" title="Tmux" alt="Tmux" width="40" height="40" style="margin: 5px;"/>
