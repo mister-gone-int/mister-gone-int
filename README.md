@@ -1,4 +1,8 @@
-# Kevin Neblett
+<p align="center">
+  <img src="assets/saga-of-gone-logo-primary-processed-768.jpg" alt="Saga of Gone Banner"/>
+</p>
+
+<hr>
 
 ## About Me
 
