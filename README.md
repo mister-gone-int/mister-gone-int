@@ -46,39 +46,49 @@ In addition to my full-time roles, I've contracted with two large organizations 
 <hr>
 ## 🧠 Skills
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,go,bash,html,css,md,regex" alt="Skill Icons - Languages" />
-</p>
+<table align="center" width="100%">
+  <tr align="center">
+    <td>
+      <strong>Languages</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=py,js,ts,go,bash,html,css,md,regex" alt="Skill Icons - Languages" />
+    </td>
+    <td>
+      <strong>AI & Machine Learning</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Skill Icons - AI & Machine Learning" />
+    </td>
+    <td>
+      <strong>Frontend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,vite,tauri" alt="Skill Icons - Frontend" />
+    </td>
+  </tr>
+  
+  <tr><td colspan="3" height="20">&nbsp;</td></tr>
 
-### AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Skill Icons - AI & Machine Learning" />
-</p>
+  <tr align="center">
+    <td>
+      <strong>Backend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,fastapi" alt="Skill Icons - Backend" />
+    </td>
+    <td>
+      <strong>Databases</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,oracle,mssql" alt="Skill Icons - Databases" />
+    </td>
+    <td>
+      <strong>DevOps & Tools</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,gcp,vercel,npm,postman" alt="Skill Icons - DevOps & Tools" />
+    </td>
+  </tr>
+  
+  <tr><td colspan="3" height="20">&nbsp;</td></tr>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,vite,tauri" alt="Skill Icons - Frontend" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" alt="Skill Icons - Backend" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,oracle,mssql" alt="Skill Icons - Databases" />
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gcp,vercel,npm,postman" alt="Skill Icons - DevOps & Tools" />
-</p>
-
-### OS & Editors
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,vscode,neovim,vim,pycharm,obsidian" alt="Skill Icons - OS & Editors" />
-</p>
+  <tr align="center">
+    <td>
+      <strong>OS & Editors</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=linux,arch,vscode,neovim,vim,pycharm,obsidian" alt="Skill Icons - OS & Editors" />
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 <hr>
 ![Profile Views](https://komarev.com/ghpvc/?username=mister-gone-int&label=Profile+Views)
