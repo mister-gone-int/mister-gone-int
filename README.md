@@ -31,6 +31,18 @@ In addition to my full-time roles, I've contracted with two large organizations 
 * Extended a primary application responsible for data transformation, reporting, and archiving.
 * Built a new, parallel application to provide further data refinement and advanced reporting.
 
+<hr>
+### ⚡ Stats
+
+<div align="center">
+    <img width="390" src="https://github-readme-stats-nu-two-84.vercel.app/api/top-langs?username=mister-gone-int&theme=catppuccin_mocha&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Kevin's Most Used Languages" />  
+    <img width="48%" src="https://github-readme-stats-nu-two-84.vercel.app/api?username=mister-gone-int&theme=catppuccin_mocha&hide_border=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=3600" alt="Kevin's GitHub Stats" />
+  <br>
+    <img width="48%" src="https://streak-stats.demolab.com/?user=mister-gone-int&theme=catppuccin_mocha&hide_border=true&count_private=true&border_radius=10&locale=en&cache_seconds=3600" alt="Kevin's Streak Stats" />
+</div>
+
+<hr>
+
 ## 🧠 Skills
 
 ### Languages
@@ -77,14 +89,6 @@ In addition to my full-time roles, I've contracted with two large organizations 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
-### ⚡ Stats
-
-<div align="center">
-    <img width="48%" src="https://streak-stats.demolab.com/?user=mister-gone-int&theme=catppuccin_mocha&hide_border=true&count_private=true&border_radius=10&locale=en&cache_seconds=3600" alt="Kevin's Streak Stats" />
-    <img width="48%" src="https://github-readme-stats-nu-two-84.vercel.app/api?username=mister-gone-int&theme=catppuccin_mocha&hide_border=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=3600" alt="Kevin's GitHub Stats" />
-  <br>
-    <img width="390" src="https://github-readme-stats-nu-two-84.vercel.app/api/top-langs?username=mister-gone-int&theme=catppuccin_mocha&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Kevin's Most Used Languages" />
-</div>
 
 <hr>
 
