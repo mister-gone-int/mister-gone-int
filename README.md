@@ -93,7 +93,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.simpleicons.org/oauth/white" title="OAuth" alt="OAuth" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.simpleicons.org/openapiinitiative/white" title="OpenAPI" alt="OpenAPI" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.simpleicons.org/swagger/white" title="Swagger" alt="Swagger" width="40" height="40" style="margin: 5px;"/>
     </td>
@@ -117,7 +117,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitkraken/gitkraken-original.svg" title="GitKraken" alt="GitKraken" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.simpleicons.org/hoppscotch/white" title="Hoppscotch" alt="Hoppscotch" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.simpleicons.org/playwright/white" title="Playwright" alt="Playwright" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" title="Poetry" alt="Poetry" width="40" height="40" style="margin: 5px;"/>
     </td>
   </tr>
