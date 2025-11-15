@@ -35,16 +35,28 @@ In addition to my full-time roles, I've contracted with two large organizations 
 
 ### ⚡ Stats
 
+<strong>Streak Stats 🔥</strong>
+
 <div align="center">
-  
-  <img width="48%" src="https://github-readme-stats-nu-two-84.vercel.app/api?username=mister-gone-int&theme=transparent&hide_border=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=3600" alt="Kevin's GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=mister-gone-int&theme=transparent&hide_border=true&count_private=true&border_radius=10&locale=en&cache_seconds=3600" alt="Kevin's Streak Stats" />
-  
+  <img src='https://streak-stats.demolab.com?user={{github_username}}&theme=react&hide_border=true&border_radius={{border_radius}}&background=0c3666' alt='GitHub Streak' />
+  <img src="https://streak-stats.demolab.com/?user=mister-gone-int&theme=transparent&hide_border=true&count_private=true&border_radius=10&locale=en&cache_seconds=3600" alt="Kevin's GitHub Streak" />
+</div>
+
+
+<strong>GitHub Profile Stats 💻</strong>
+<div align="center" style="width: 100%">
+  <img width="48%" src="https://github-readme-stats-nu-two-84.vercel.app/api?username=mister-gone-int&theme=transparent&hide_border=true&count_private=true&show_icons=true&rank_icon=default&cache_seconds=3600" alt="Kevin's GitHub Stats" />
   <br>
-  
   <img width="390" src="https://github-readme-stats-nu-two-84.vercel.app/api/top-langs?username=mister-gone-int&theme=transparent&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Kevin's Most Used Languages" />
 
+  <img alt="{{github_username}}'s Activity Graph" style="width: 100%" src="https://github-readme-activity-graph.vercel.app/graph/?username={{github_username}}&bg_color=0c3666&color=5fabee&line=1658a3&point=61dafb&hide_border=true&radius={{border_radius}}&area=true">
+
+
+
 </div>
+
+
+
 
 <hr>
 
