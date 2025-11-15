@@ -79,15 +79,17 @@ In addition to my full-time roles, I've contracted with two large organizations 
 
 ### ⚡ Stats
 
-<br>
+<div align="center">
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mister-gone-int&theme=transparent&count_private=true&show_icons=true&rank_icon=github&cache_seconds=3600" alt="Kevin's GitHub Stats" />
+  
+  <img width="48%" src="https://streak-stats.demolab.com/?user=mister-gone-int&theme=transparent&count_private=true&border_radius=10&locale=en&cache_seconds=3600" alt="Kevin's Streak Stats" />
+  
+  <br>
+  
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=mister-gone-int&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Kevin's Most Used Languages" />
 
-<div align=center>
-  <!--
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Kevin's GitHub Stats" />
-  -->
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mister-gone-int&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Kevin's" />
-  <!--
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=mister-gone-int&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Kevin's Most Used Languages" /> 
-  -->
 </div>
+
+<hr>
 
