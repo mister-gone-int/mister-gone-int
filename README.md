@@ -44,22 +44,26 @@ In addition to my full-time roles, I've contracted with two large organizations 
 
 </div>
 <hr>
-
 ## 🧠 Skills
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,go" alt="Skill Icons - Languages" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,go,bash,html,css,md,regex" alt="Skill Icons - Languages" />
+</p>
+
+### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Skill Icons - AI & Machine Learning" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,svelte,tailwind" alt="Skill Icons - Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,vite,tauri" alt="Skill Icons - Frontend" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Skill Icons - Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" alt="Skill Icons - Backend" />
 </p>
 
 ### Databases
@@ -69,8 +73,12 @@ In addition to my full-time roles, I've contracted with two large organizations 
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gcp,vercel" alt="Skill Icons - DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gcp,vercel,npm,postman" alt="Skill Icons - DevOps & Tools" />
+</p>
+
+### OS & Editors
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,arch,vscode,neovim,vim,pycharm,obsidian" alt="Skill Icons - OS & Editors" />
 </p>
 <hr>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mister-gone-int&label=Profile+Views)
