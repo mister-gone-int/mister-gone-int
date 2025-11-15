@@ -2,8 +2,6 @@
   <img src="assets/saga-of-gone-logo-primary-processed-768.png" alt="Saga of Gone Banner"/>
 </p>
 
-<hr>
-
 ## About Me
 
 Hi, I'm Kevin Neblett 👋
