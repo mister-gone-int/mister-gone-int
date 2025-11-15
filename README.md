@@ -14,7 +14,7 @@ I'm a **Software Architect** and **Engineering Leader** with 29+ years of experi
 * 🚀 **Current Focus:** Founder of my own company, developing two new AI-powered applications.
 * 🛠️ **Daily Stack:** `Python` | `ReactJS` | `Tailwind CSS` | `JupyterLab`
 
----
+<hr>
 
 ### Career Highlights
 
@@ -32,20 +32,18 @@ In addition to my full-time roles, I've contracted with two large organizations 
 * Built a new, parallel application to provide further data refinement and advanced reporting.
 
 <hr>
+
 ### ⚡ Stats
 
 <div align="center">
-    
   
-  <img width="48%" src="https://streak-stats.demolab.com/?user=mister-gone-int&theme=catppuccin_mocha&hide_border=true&count_private=true&border_radius=10&locale=en&cache_seconds=3600" alt="Kevin's Streak Stats" />
-  <br>
-  <img width="390" src="https://github-readme-stats-nu-two-84.vercel.app/api/top-langs?username=mister-gone-int&theme=catppuccin_mocha&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Kevin's Most Used Languages" />  
-  <br>
   <img width="48%" src="https://github-readme-stats-nu-two-84.vercel.app/api?username=mister-gone-int&theme=catppuccin_mocha&hide_border=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=3600" alt="Kevin's GitHub Stats" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mister-gone-int&theme=catppuccin" alt="Kevin's Trophies" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=mister-gone-int&theme=catppuccin_mocha&hide_border=true&count_private=true&border_radius=10&locale=en&cache_seconds=3600" alt="Kevin's Streak Stats" />
+  
+  <br>
+  
+  <img width="390" src="https://github-readme-stats-nu-two-84.vercel.app/api/top-langs?username=mister-gone-int&theme=catppuccin_mocha&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Kevin's Most Used Languages" />
+
 </div>
 
 <hr>
@@ -89,13 +87,4 @@ In addition to my full-time roles, I've contracted with two large organizations 
 ### DevOps & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-</p>
-
-
-<hr>
-
+  <img src="https
