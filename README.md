@@ -134,7 +134,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" title="GoLand" alt="GoLand" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.simpleicons.org/datagrip/white" title="DataGrip" alt="DataGrip" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" title="DataGrip" alt="DataGrip" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dataspell/dataspell-original.svg" title="Dataspell" alt="Dataspell" width="40" height="40" style="margin: 5px;"/> 
       <img src="https://cdn.simpleicons.org/obsidian/white" title="Obsidian" alt="Obsidian" width="40" height="40" style="margin: 5px;"/>      
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40" style="margin: 5px;"/>
