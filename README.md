@@ -101,7 +101,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
       <strong>Databases</strong><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" style="margin: 5px;"/>
-      <img src="https"//cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="MS SQL Server" alt="MS SQL Server" width="40" height="40" style="margin: 5px;"/>
@@ -135,7 +135,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" title="GoLand" alt="GoLand" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.simpleicons.org/datagrip/white" title="DataGrip" alt="DataGrip" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.simpleicons.org/dataspell/white" title="DataSpell" alt="DataSpell" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dataspell/dataspell-original.svg" />
       <img src="https://cdn.simpleicons.org/obsidian/white" title="Obsidian" alt="Obsidian" width="40" height="40" style="margin: 5px;"/>      
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" title="Tmux" alt="Tmux" width="40" height="40" style="margin: 5px;"/>
