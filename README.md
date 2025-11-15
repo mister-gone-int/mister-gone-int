@@ -60,8 +60,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/regex/Regex-Dark.svg" title="Regex" alt="Regex" width="40" height="40" style="margin: 5px;"/>
-    </td>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Regex-Dark.svg" title="Regex" alt="Regex" width="40" height="40" style="margin: 5px;"/> 
     <td width="33%">
       <strong>AI & Machine Learning</strong><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40" style="margin: 5px;"/>
