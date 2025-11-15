@@ -1,49 +1,34 @@
 # Kevin Neblett
 ---
 
-About Me
+## About Me
 
 Hi, I'm Kevin Neblett 👋
 
-I'm a Software Architect and Engineering Leader with 29+ years of experience, specializing in full-stack development and AI/ML.
+I'm a **Software Architect** and **Engineering Leader** with 29+ years of experience, specializing in full-stack development and **AI/ML**.
 
-📍 Based in Springfield, MO
+* 📍 Based in Springfield, MO
+* 🚀 **Current Focus:** Founder of my own company, developing two new AI-powered applications.
+* 🛠️ **Daily Stack:** `Python` | `ReactJS` | `Tailwind CSS` | `JupyterLab`
 
-🚀 Current Focus: Founder of my own company, developing two new AI-powered applications.
+---
 
-🛠️ Daily Stack: Python | ReactJS | Tailwind CSS | JupyterLab
+### Career Highlights
 
-Career Highlights
-Before pivoting to AI, I spent 25 years as an Application Developer, Lead Architect, and later Director of Engineering in the health-tech industry.
+Before pivoting to AI, I spent 25 years as an Application Developer, Lead Architect, and later **Director of Engineering** in the health-tech industry.
 
-Behavioral Healthcare: Developed an industry-leading Practice Management application from the ground up over a period of 13 years, which is still a market leader two decades later.
+* **Behavioral Healthcare:** Developed an industry-leading Practice Management application from the ground up over a period of 13 years, which is still a market leader two decades later.
+* **Ambulatory Surgical:** Architected and launched a new Practice Management application that was **successfully acquired** by a major software vendor.
 
-Ambulatory Surgical: Architected and launched a new Practice Management application that was successfully acquired by a major software vendor.
+### Consulting & Data Engineering
 
-Consulting & Data Engineering
-In addition to my full-time roles, I've contracted with two large organizations over six years, delivering three major projects focused on massive-scale datasets.
+In addition to my full-time roles, I've contracted with two large organizations over six years, delivering three major projects focused on **massive-scale datasets**.
 
-Specialized in the acquisition, transformation, and organization of complex data.
+* Specialized in the acquisition, transformation, and organization of complex data.
+* Extended a primary application responsible for data transformation, reporting, and archiving.
+* Built a new, parallel application to provide further data refinement and advanced reporting.
 
-Extended a primary application responsible for data transformation, reporting, and archiving.
-
-Built a new, parallel application to provide further data refinement and advanced reporting.
-
-<!--
-**mister-gone-int/mister-gone-int** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## ⚡️ Stats
+### ⚡ Stats
 
 <br>
 
