@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/saga-of-gone-logo-primary-processed-768.jpg" alt="Saga of Gone Banner"/>
+  <img src="assets/saga-of-gone-logo-primary-processed-768.png" alt="Saga of Gone Banner"/>
 </p>
 
 <hr>
