@@ -42,7 +42,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
   
   <br>
   
-  <img width="65%" src="https://github-readme-stats-nu-two-84.vercel.app/api/top-langs?username=mister-gone-int&theme=transparent&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Kevin's Most Used Languages" />
+  <img width="48%" src="https://github-readme-stats-nu-two-84.vercel.app/api/top-langs?username=mister-gone-int&theme=transparent&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Kevin's Most Used Languages" />
 
 </div>
 <hr>
