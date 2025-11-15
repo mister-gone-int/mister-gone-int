@@ -45,11 +45,11 @@ In addition to my full-time roles, I've contracted with two large organizations 
 
   <br><br>
 
-  <img width="65%" src="https://github-readme-stats-nu-two-84.vercel.app/api/top-langs?username=mister-gone-int&theme=transparent&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Kevin's Most Used Languages" />
+  <img width="40%" src="https://github-readme-stats-nu-two-84.vercel.app/api/top-langs?username=mister-gone-int&theme=transparent&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&count_private=true&include_all_commits=true&cache_seconds=3600" alt="Kevin's Most Used Languages" />
 
   <br><br>
 
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph/?username=mister-gone-int&theme=github-compact&hide_border=true&radius=10&area=true&days=40" alt="Kevin's GitHub Activity" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=mister-gone-int&theme=github-compact&hide_border=true&radius=10&area=true&days=40" alt="Kevin's GitHub Activity" />
 
 </div>
 
