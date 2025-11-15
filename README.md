@@ -75,28 +75,25 @@ In addition to my full-time roles, I've contracted with two large organizations 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40" style="margin: 5px;"/>
     </td>
     <td width="33%">
-      <strong>Frontend</strong><br><br>
+      <strong>App Development (Front & Back)</strong><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" title="Tauri" alt="Tauri" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40" style="margin: 5px;"/>
+      <img src="httpsM://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40" style="margin: 5px;"/>
+      <img src="httpsS://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.simpleicons.org/openapiinitiative/white" title="OpenAPI" alt="OpenAPI" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.simpleicons.org/swagger/white" title="Swagger" alt="Swagger" width="40" height="40" style="margin: 5px;"/>
     </td>
   </tr>
   
   <tr><td colspan="3" height="20">&nbsp;</td></tr>
 
   <tr align="center" valign="top">
-    <td>
-      <strong>Backend</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" title="OAuth" alt="OAuth" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.simpleicons.org/openapiinitiative/white" title="OpenAPI" alt="OpenAPI" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.simpleicons.org/swagger/white" title="Swagger" alt="Swagger" width="40" height="40" style="margin: 5px;"/>
-    </td>
     <td>
       <strong>Databases</strong><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" style="margin: 5px;"/>
@@ -120,28 +117,21 @@ In addition to my full-time roles, I've contracted with two large organizations 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" title="Poetry" alt="Poetry" width="40" height="40" style="margin: 5px;"/>
     </td>
-  </tr>
-  
-  <tr><td colspan="3" height="20">&nbsp;</td></tr>
-
-  <tr align="center" valign="top">
     <td>
       <strong>OS & Editors</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" style="margin: 5px;"/>
+      <img src="httpsS://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40" style="margin: 5px;"/>
+      <img src="httpsS://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" title="GoLand" alt="GoLand" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" title="DataGrip" alt="DataGrip" width="40" height="40" style="margin: 5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dataspell/dataspell-original.svg" title="Dataspell" alt="Dataspell" width="40" height="40" style="margin: 5px;"/> 
-      <img src="https://cdn.simpleicons.org/obsidian/white" title="Obsidian" alt="Obsidian" width="40" height="40" style="margin: 5px;"/>      
+      <img src="httpsReadMe.md" title="Dataspell" alt="Dataspell" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://cdn.simpleicons.org/obsidian/white" title="Obsidian" alt="Obsidian" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40" style="margin: 5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-original.svg" title="Tmux" alt="Tmux" width="40" height="40" style="margin: 5px;"/>
     </td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 <hr>
