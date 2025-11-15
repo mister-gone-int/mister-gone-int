@@ -94,3 +94,5 @@ In addition to my full-time roles, I've contracted with two large organizations 
 </p>
 
 <hr>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mister-gone-int&label=Profile+Views)
