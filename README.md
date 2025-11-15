@@ -49,7 +49,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
 
   <br><br>
 
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph/?username=mister-gone-int&theme=github-compact&hide_border=true&radius=10&area=true&days=90" alt="Kevin's GitHub Activity" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph/?username=mister-gone-int&theme=github-compact&hide_border=true&radius=10&area=true&days=60" alt="Kevin's GitHub Activity" />
 
 </div>
 
