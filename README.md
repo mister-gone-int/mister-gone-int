@@ -47,8 +47,8 @@ In addition to my full-time roles, I've contracted with two large organizations 
 ## 🧠 Skills
 
   <table align="center" width="100%">
-    <tr align="center" valign="top">
-      <td width="33%">
+    <tr valign="top">
+      <td width="33%" align="left" style="padding-left: 20px;">
         <strong>Languages</strong><br><br>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/><br/>
@@ -61,7 +61,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
         <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/><br/>
         <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
       </td>
-      <td width="33%">
+      <td width="33%" align="left" style="padding-left: 20px;">
         <strong>AI & Machine Learning</strong><br><br>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/><br/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/><br/>
@@ -71,7 +71,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/><br/>
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
       </td>
-      <td width="33%">
+      <td width="33%" align="left" style="padding-left: 20px;">
         <strong>App Development (Front & Back)</strong><br><br>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/><br/>
         <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/><br/>
@@ -88,8 +88,8 @@ In addition to my full-time roles, I've contracted with two large organizations 
       </td>
     </tr>
     <tr><td colspan="3" height="20">&nbsp;</td></tr>
-    <tr align="center" valign="top">
-      <td>
+    <tr valign="top">
+      <td align="left" style="padding-left: 20px;">
         <strong>Databases</strong><br><br>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/><br/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/><br/>
@@ -98,7 +98,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/><br/>
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server"/>
       </td>
-      <td>
+      <td align="left" style="padding-left: 20px;">
         <strong>DevOps & Tools</strong><br><br>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><br/>
@@ -112,7 +112,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/><br/>
         <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" alt="Poetry"/>
       </td>
-      <td>
+      <td align="left" style="padding-left: 20px;">
         <strong>OS & Editors</strong><br><br>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/><br/>
         <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/><br/>
