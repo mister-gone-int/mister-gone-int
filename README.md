@@ -112,7 +112,7 @@ In addition to my full-time roles, I've contracted with two large organizations 
         <img src="https://img.shields.io/badge/Mise-4A154B?style=for-the-badge&logoColor=white" alt="Mise"/>
       </td>
       <td width="16%" align="left">
-        <strong>Editors</strong><br><br>
+        <strong>OS & Editors</strong><br><br>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/><br/>
         <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/><br/>
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/><br/>
