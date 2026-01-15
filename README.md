@@ -109,13 +109,13 @@ In addition to my full-time roles, I've contracted with two large organizations 
         <img src="https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white" alt="Hoppscotch"/><br/>
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/><br/>
         <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" alt="Poetry"/><br/>
-        <img src="https://img.shields.io/badge/Mise-4A154B?style=for-the-badge&&logo=mise&logoColor=white" alt="Mise"/>
+        <img src="https://img.shields.io/badge/Mise-4A154B?style=for-the-badge&logo=mise&logoColor=white" alt="Mise"/>
       </td>
       <td width="16%" align="left">
         <strong>OS & Editors</strong><br><br>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/><br/>
         <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/><br/>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code"/><br/>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code"/>
         <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/><br/>
         <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/><br/>
         <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/><br/>
