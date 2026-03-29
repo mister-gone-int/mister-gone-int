@@ -115,13 +115,8 @@ In addition to my full-time roles, I've contracted with two large organizations 
         <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/><br/>
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code"/>
         <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/><br/>
-        <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/><br/>
-        <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/><br/>
-        <img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white" alt="GoLand"/><br/>
-        <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" alt="DataGrip"/><br/>
         <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/><br/>
         <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape"/><br/>
-        <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="Tmux"/>
       </td>
     </tr>
   </table>
