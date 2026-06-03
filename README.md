@@ -6,7 +6,7 @@
 
 Hi, I'm Kevin Neblett 👋
 
-I'm a **Software Architect** and **Engineering Leader** with 29+ years of experience, specializing in full-stack development and **AI/ML**.
+I'm a **Software Architect** and **Engineering Leader** with 25+ years of experience, specializing in full-stack development and **AI/ML**.
 
 * 📍 Based in Springfield, MO
 * 🚀 **Current Focus:** Founder of my own company, developing two new AI-powered applications.
