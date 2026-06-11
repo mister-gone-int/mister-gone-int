@@ -10,7 +10,7 @@ I'm a **Software Architect** and **Engineering Leader** with 25+ years of experi
 
 * 📍 Based in Springfield, MO
 * 🚀 **Current Focus:** Founder of my own company, developing two new AI-powered applications.
-* 🛠️ **Daily Stack:** `Python` | `ReactJS` | `Tailwind CSS` | `JupyterLab`
+* 🛠️ **Daily Stack:** `Python` | `ReactJS` | `Tailwind CSS` | `JupyterLab` | `Rust`  
 
 <hr>
 
