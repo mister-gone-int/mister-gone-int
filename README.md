@@ -8,7 +8,7 @@ Hi, I'm Kevin Neblett 👋
 
 I'm a **Software Architect** and **Engineering Leader** with 25+ years of experience, specializing in full-stack development and **AI/ML**.
 
-* 📍 Based in Springfield, MO
+* 📍 Based in Springfield, MO (GMT -6:00)
 * 🚀 **Current Focus:** Founder of my own company, developing two new AI-powered applications.
 * 🛠️ **Daily Stack:** `Python` | `ReactJS` | `Tailwind CSS` | `JupyterLab` | `Rust`  
 
