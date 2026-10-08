@@ -16,7 +16,7 @@ I'm a **Software Architect** and **Engineering Leader** with 25+ years of experi
 
 ### Career Highlights
 
-Before pivoting to AI, I spent 25 years as an Application Developer, Lead Architect, and later **Director of Engineering** in the health-tech industry.
+Before pivoting to AI/ML, I spent 25 years as an Application Developer, Lead Architect, and later **Director of Engineering** in the health-tech industry.
 
 * **Behavioral Healthcare:** Developed an industry-leading Practice Management application from the ground up over a period of 13 years, which is still a market leader two decades later.
 * **Ambulatory Surgical:** Architected and launched a new Practice Management application that was **successfully acquired** by a major software vendor.
