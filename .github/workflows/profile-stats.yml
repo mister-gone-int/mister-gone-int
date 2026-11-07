@@ -31,7 +31,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: top-langs
-          options: username=mister-gone-int&theme=transparent&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en
+          options: username=mister-gone-int&theme=transparent&hide_border=true&layout=compact&card_width=495&hide=css&langs_count=8&border_radius=10&locale=en
           path: profile/top-langs.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
           fail_on_error: true
