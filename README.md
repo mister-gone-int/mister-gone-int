@@ -35,8 +35,8 @@ In addition to my full-time roles, I've contracted with two large organizations 
 
 <div align="center">
   
-  <img width="48%" src="./profile/streak.svg" alt="Kevin's GitHub Streak Stats" />
-  <img width="48%" src="./profile/top-langs.svg" alt="Kevin's Most Used Languages" />
+  <img width="57%" src="./profile/streak.svg" alt="Kevin's GitHub Streak Stats" />
+  <img width="40%" src="./profile/top-langs.svg" alt="Kevin's Most Used Languages" />
 
 </div>
 
