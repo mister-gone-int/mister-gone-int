@@ -1,0 +1,55 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily at 03:00 UTC
+  push:
+    paths:
+      - ".github/workflows/profile-stats.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      # Each card step uses continue-on-error so that one failed card
+      # (e.g. a rate limit) keeps its last good SVG instead of breaking the others.
+      - name: Generate streak stats
+        continue-on-error: true
+        uses: DenverCoder1/github-readme-streak-stats@125aaaf200620410446ebfa51897fca3607e04fd # v1.8.2
+        with:
+          options: user=mister-gone-int&theme=transparent&hide_border=true&border_radius=10&locale=en&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.STREAK_STATS_TOKEN }}
+
+      - name: Generate stats card
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=mister-gone-int&theme=transparent&hide_border=true&count_private=true&show_icons=true&rank_icon=github
+          path: profile/stats.svg
+          token: ${{ secrets.STREAK_STATS_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages card
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          options: username=mister-gone-int&theme=transparent&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en
+          path: profile/top-langs.svg
+          token: ${{ secrets.STREAK_STATS_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit profile stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update profile stats" || exit 0
+          git push
