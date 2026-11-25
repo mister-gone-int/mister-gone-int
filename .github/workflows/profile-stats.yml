@@ -35,6 +35,10 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.STREAK_STATS_TOKEN }}
           fail_on_error: true
+          # Pin the renderer to an exact (immutable) npm version. The default
+          # "v2" resolves to the newest 2.x at runtime, which would run
+          # unreviewed code with STREAK_STATS_TOKEN.
+          core_version: "2.3.1"
 
       - name: Commit profile stats
         run: |
